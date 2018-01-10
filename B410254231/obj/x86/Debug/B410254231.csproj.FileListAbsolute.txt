@@ -1,0 +1,11 @@
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\MainWindow.baml
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\App.g.cs
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\B410254231_MarkupCompile.cache
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\B410254231.g.resources
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\B410254231.Properties.Resources.resources
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\B410254231.csproj.GenerateResource.Cache
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\bin\Debug\B410254231.exe
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\bin\Debug\B410254231.pdb
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\B410254231.exe
+C:\Users\hui83\Documents\Visual Studio 2010\Projects\B410254231\B410254231\obj\x86\Debug\B410254231.pdb
